@@ -15,6 +15,7 @@ TEST PLAN
 TEST CASES
 
 SL.NO	              Cases	Description
+
 1	                 Check voter /admin.	Enter correct user name and password if the user is admin.
 2	Check whether candidate names are displayed to voter.	Names of all the candidates participating in the election should be displayed.
 
