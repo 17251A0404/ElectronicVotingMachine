@@ -1,4 +1,4 @@
-TEST PLAN
+TEST PLAN\n
 •	To check whether the user is an admin/voter.
 •	To provide the candidates names if the user is a voter.
 •	To properly count the number of votes each candidates has got.
