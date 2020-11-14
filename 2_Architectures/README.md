@@ -1,1 +1,1 @@
-
+Electronic Voting comprises the use of a computer rather than the traditional use of ballot at polling centre or by postal mail. Here the user can be an admin or a voter .If the user is a voter he can vote to the candidate of his choice. If the user is an admin he can view the vote count as well as the leading candidate and finally the winner of the election will be displayed based on the received votes.
